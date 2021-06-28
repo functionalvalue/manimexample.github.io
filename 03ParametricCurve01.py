@@ -10,7 +10,7 @@
 
 from manim import *
 
-class TwistedCurve(ThreeDScene):
+class ParametricCurve1(ThreeDScene):
     def construct(self):
         self.set_camera_orientation(phi=75 * DEGREES, theta=-30 * DEGREES)  # Set Camera Orientation
         axes = ThreeDAxes()   # 3D Axes
