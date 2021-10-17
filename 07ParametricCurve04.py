@@ -6,7 +6,7 @@
 # CopyRight @ Functional Value
 
 
-# This Code Will run in Manim CE (Community v0.7.0)
+# This Code Will run in Manim CE (Community v0.11.0)
 
 from manim import *
 
